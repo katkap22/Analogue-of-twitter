@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Analogue-of-twitter/static/css/main.b13de6a2.css",
+    "main.js": "/Analogue-of-twitter/static/js/main.3fc87b32.js",
+    "index.html": "/Analogue-of-twitter/index.html",
+    "main.b13de6a2.css.map": "/Analogue-of-twitter/static/css/main.b13de6a2.css.map",
+    "main.3fc87b32.js.map": "/Analogue-of-twitter/static/js/main.3fc87b32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b13de6a2.css",
+    "static/js/main.3fc87b32.js"
+  ]
+}
